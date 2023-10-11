@@ -1,0 +1,7 @@
+.container {
+    height: 150px;
+    background-color: bisque;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
